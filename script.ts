@@ -3,7 +3,7 @@ document
   ?.addEventListener("submit", function (event) {
     event.preventDefault();
 
-    // Get references to form elements using their IDs
+    // Get references to form elements using their IDss
 
     const profilePictureInput = document.getElementById(
       "profilePicture"
